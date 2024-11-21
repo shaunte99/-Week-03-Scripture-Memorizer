@@ -1,0 +1,14 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll
